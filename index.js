@@ -1,7 +1,7 @@
 // Version Control Assessment
 // 1. Explain what version control is.
 // Write your answer as a string and store it in the variable below:
-let versionControlExplanation = "";
+let versionControlExplanation = "Version control tracks changes, it is useful because it allows you to revert to old changes";
 
 console.log("What is version control?");
 console.log(versionControlExplanation); 
